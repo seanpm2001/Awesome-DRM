@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+A list of totally NOT Awesome DRM and the cons and cons of each DRM scheme. Please avoid DRM at all costs!
